@@ -1,0 +1,6 @@
+[submodule "2julyangelrepo"]
+	path = 2julyangelrepo
+	url = https://github.com/angeldhaliwal/2julyangelrepo.git
+[submodule "angel"]
+	path = angel
+	url = https://github.com/angeldhaliwal/2julyangelrepo.git
